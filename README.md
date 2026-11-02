@@ -1,10 +1,12 @@
-<h1 align="center">Hola 👋, Soy Shampier</h1>
-<h3 align="center">Economista | Analista de datos | Python Developer | Investigador en temas innovadores</h3>
+<h1 align="center">Hi, I'm Shampier 👋</h1>
+<h3 align="center">Economist | Data Scientist | Applied Econometrics & Python | Data Analytics & Research </h3>
 <img align="left" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Economista;Analista+de+datos;Python+Developer;Investigador+en+temas+innovadores;1er+puesto+(16.53)&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Economist;Data+Scientist;Artificial+Intelligence+%26+Machine+Learning;Applied+Econometrics;Data+Analytics+%26+Research&center=true&width=700&height=45&size=24&pause=1200">
 </p>
+
 
 ---
 
