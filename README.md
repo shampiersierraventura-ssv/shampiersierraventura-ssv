@@ -9,55 +9,92 @@
 
 
 ---
+Economist with a strong background in quantitative analysis, applied econometrics, and data science. Experienced in developing data-driven solutions, automating analytical workflows, and integrating multiple data sources to support evidence-based decision-making.
 
-## 🚀 Sobre mi
+My professional and research interests lie at the intersection of **Applied Economics, Data Science, and Public Policy**, with a particular focus on transforming complex datasets into actionable insights.
+---
 
-- 📊 Economista por la UNMSM
-- Programas de Especialización en la UNI
-  - **Econometría Aplicada & Ciencia de Datos**
-- 🧠 Proyectos de Investigación:
-  - Rendimiento portuario y crecimiento económico
-  - Web scraping para la recopilación de datos económicos
-  - Modelos de series de tiempo.
-- 🐍 Desarrollador de Python especializado en:
-  - Web Scraping
-  - Automatización
-  - Limpieza de datos
-- 🏛️ Uso de base de datos públicas
-- 📚 Interesado en:
-  - Economía portuaria
-  - Economía cuantitativa
-  - Inteligencia Artificial
-  - Modelamiento Econometrico
+## 🎓 Education & Professional Development
+
+- **Economist** — National University of San Marcos (UNMSM), Peru.
+- **Specialization in Applied Econometrics** — National University of Engineering (UNI), Peru.
+- **Specialization in Data Science** — National University of Engineering (UNI), Peru.
+
+My academic training combines economic theory, statistical modeling, econometric methods, machine learning, and computational tools for applied research.
 
 ---
 
-## ⚙️ Softwares
+## 💼 Areas of Expertise
 
-<p align="center">
+### 📊 Data Science & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,powershell,js,matlab" />
+- Exploratory data analysis and statistical modeling.
+- Supervised and unsupervised machine learning.
+- Time series analysis and forecasting.
+- Data visualization and interactive dashboards.
 
-</p>
+### ⚙️ Data Engineering & Automation
 
+- Data extraction, transformation, and processing (ETL).
+- Web scraping and automated data collection.
+- Python-based workflow automation.
+- SQL querying and relational database management.
 
+### 📈 Applied Economics & Research
 
-## 🌎 Conecta conmigo
+- Applied econometrics and quantitative research.
+- Macroeconomic and public finance analysis.
+- Economic data analysis and empirical modeling.
+- Evidence-based public policy evaluation.
 
-<p align="center">
+---
 
-<a href="https://github.com/TUUSUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🔬 Research Interests
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- Applied Econometrics and Economic Modeling
+- Machine Learning for Economic Analysis
+- Public Finance and Public Investment
+- Time Series Econometrics
+- Artificial Intelligence and Data-Driven Decision-Making
 
-</p>
+---
+
+## 🚀 Selected Project
+
+### Public Investment Risk Prioritization System — Peru
+
+A data-driven application developed to support the identification and prioritization of public investment projects according to their risk levels.
+
+The project integrates open government data, analytical workflows, and data science techniques into an interactive application deployed using Streamlit.
+
+**Technologies:** Python · Data Analysis · Machine Learning · Streamlit
+
+🔗 [Explore the Application](https://appriesgoinversionespublicasv2-upaubgcnayhotyp75hlf8m.streamlit.app/)
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | Python, R, SQL, JavaScript |
+| **Data Analysis** | Pandas, NumPy, Stata, EViews |
+| **Machine Learning** | Scikit-learn, Statistical Modeling |
+| **Data Visualization** | Power BI, Matplotlib, Streamlit |
+| **Databases** | Oracle SQL, SQL Server, MySQL |
+| **Automation & Development** | Excel VBA, PowerShell, Git, VS Code |
+
+---
+
+## 🌐 Connect with Me
+
+I am interested in professional and academic opportunities involving data science, applied economics, quantitative research, and analytical innovation.
+
+- 💼 **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/shampier-moises-sierra-ventura-ab8b1125b)
+- 📧 **Email:** [shampiersierraventura@gmail.com](mailto:shampiersierraventura@gmail.com)
 
 ---
 
 <p align="center">
-⚡ “Data tells stories. Econometrics explains them.” ⚡
+  <i>Turning data into insights through economics, statistics, and technology.</i>
 </p>
