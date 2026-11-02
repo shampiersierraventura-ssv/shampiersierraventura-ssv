@@ -2,16 +2,18 @@
 <h3 align="center">Economist | Data Scientist | Applied Econometrics & Python | Data Analytics & Research </h3>
 <img align="left" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Economist;Data+Scientist;Artificial+Intelligence+%26+Machine+Learning;Applied+Econometrics;Data+Analytics+%26+Research&center=true&width=700&height=45&size=24&pause=1200">
 </p>
 
-
 ---
+
 Economist with a strong background in quantitative analysis, applied econometrics, and data science. Experienced in developing data-driven solutions, automating analytical workflows, and integrating multiple data sources to support evidence-based decision-making.
 
 My professional and research interests lie at the intersection of **Applied Economics, Data Science, and Public Policy**, with a particular focus on transforming complex datasets into actionable insights.
+
 ---
 
 ## 🎓 Education & Professional Development
@@ -86,12 +88,15 @@ The project integrates open government data, analytical workflows, and data scie
 
 ---
 
+
 ## 🌐 Connect with Me
 
 I am interested in professional and academic opportunities involving data science, applied economics, quantitative research, and analytical innovation.
 
 - 💼 **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/shampier-moises-sierra-ventura-ab8b1125b)
-- 📧 **Email:** [shampiersierraventura@gmail.com](mailto:shampiersierraventura@gmail.com)
+- 🎓 **Academic Email:** [shampier.sierra@unmsm.edu.pe](mailto:shampier.sierra@unmsm.edu.pe)
+- 📧 **Professional Email:** [shampiersierraventura@gmail.com](mailto:shampiersierraventura@gmail.com)
+- 📩 **Alternative Email:** [megapluad.qwertyuiop@gmail.com](mailto:megapluad.qwertyuiop@gmail.com)
 
 ---
 
